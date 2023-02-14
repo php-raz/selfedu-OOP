@@ -1,5 +1,4 @@
 class Point:
-    """Тестовый класс"""
     color = 'red'
     circle = 2
 
