@@ -5,6 +5,7 @@ class Point:
 
 a = Point()
 b = Point()
+с = Point()
 
 # Получение атрибута
 print(getattr(Point, 'color'))
