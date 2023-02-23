@@ -19,3 +19,4 @@ class Point:
 
 pt = Point(2, 4)
 print(pt.__dict__)
+print(pt.get_coords())
